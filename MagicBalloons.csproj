@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{0FFDA6F0-9493-4956-B096-787D622170AC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Balloons_are_TAKING_off</RootNamespace>
-    <AssemblyName>BALLOONS ARE TAKING OFF</AssemblyName>
+    <RootNamespace>MagicBalloons</RootNamespace>
+    <AssemblyName>Magic Balloons</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
